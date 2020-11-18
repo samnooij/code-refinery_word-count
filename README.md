@@ -14,3 +14,6 @@ law](https://en.wikipedia.org/wiki/Zipf%27s_law) on the two most common words.
 We use this example in two [CodeRefinery](https://coderefinery.org/) lessons:
 - https://coderefinery.github.io/reproducible-research/
 - https://coderefinery.github.io/documentation/
+
+Example documentation generated from this repository is available on [readthedocs](https://samnooij-word-count.readthedocs.io/en/latest/).  
+(To create it, I used Readthedoc's integration with GitHub to automatically pull the files in the `doc` directory.)
