@@ -1,4 +1,4 @@
-
+[![Documentation Status](https://readthedocs.org/projects/samnooij-word-count/badge/?version=latest)](https://samnooij-word-count.readthedocs.io/en/latest/?badge=latest)
 
 # Word count example
 
